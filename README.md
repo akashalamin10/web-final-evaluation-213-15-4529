@@ -64,9 +64,24 @@
   <li>Run the project on your <strong>local server (e.g., XAMPP/Laragon)</strong>.</li>
   <li>Login as Admin using:
     <ul>
-      <li><strong>Email:</strong> <code>akash.alamin.cse@gmail.com</code></li>
-      <li><strong>Password:</strong> <code>akash4529</code></li>
-    </ul>
+      <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; font-size: 16px; margin-top: 10px;">
+  <thead style="background-color: #3498db; color: white;">
+    <tr>
+      <th colspan="2">🔐 Admin Login Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #ecf0f1;">
+      <td><strong>Email</strong></td>
+      <td><code style="color: #2c3e50;">akash.alamin.cse@gmail.com</code></td>
+    </tr>
+    <tr style="background-color: #ecf0f1;">
+      <td><strong>Password</strong></td>
+      <td><code style="color: #2c3e50;">akash4529</code></td>
+    </tr>
+  </tbody>
+</table>
+
   </li>
 </ol>
 
