@@ -1,7 +1,7 @@
-<h2 style="color: #2c3e50;">🎓 Project Name: <span style="color:#2980b9;">Student Management System</span></h2>
+<h2 style="color: #2c3e50;">🎓 Project Name: <span style="color:#2980b9;">Student Database Management System</span></h2>
 
 <p style="font-size: 16px; line-height: 1.6;">
-  This is a <strong>dynamic web-based Student Management System</strong> built using <code>PHP</code> and <code>MySQL</code>.<br><br>
+  This is a <strong>dynamic web-based Student Database Management System</strong> built using <code>PHP</code> and <code>MySQL</code>.<br><br>
   The system supports two types of users:
   <ul>
     <li><strong>User</strong> – Can query student data by submitting student <code>Department</code> and <code>ID No</code>.</li>
@@ -13,7 +13,7 @@
 
 <h3 style="color: #27ae60;">👨‍💻 Contributor</h3>
 
-<img src="assets/akash.jpg" alt="MD. AL AMIN AKASH" width="150" style="border-radius: 10px; margin-bottom: 10px;">
+<img src="akash.jpg" alt="MD. AL AMIN AKASH" width="150" style="border-radius: 10px; margin-bottom: 10px;">
 
 <ul>
   <li><a href="https://github.com/akashalamin10" target="_blank"><strong>MD. AL AMIN AKASH</strong></a></li>
